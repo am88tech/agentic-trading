@@ -1,0 +1,15 @@
+Today suggestion
+================
+{
+  "date": "2025-11-10",
+  "ticker": "ADANIPOWER.NS",
+  "indicator_combo": [
+    "SMA50_above_SMA200",
+    "STOCH_K_above_D"
+  ],
+  "signal": 0,
+  "price_open": 152.75,
+  "price_close": 150.05999755859375,
+  "atr": 5.067854745047433,
+  "note": "No buy signal today per selected strategy"
+}

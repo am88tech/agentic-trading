@@ -1,0 +1,27 @@
+Final Backtest Summary
+======================
+Ticker: ADANIPOWER.NS
+Date range: 2018-10-23 to 2025-11-10
+Initial capital: ₹100,000.00
+Final equity: ₹259,283.92
+Profit / Loss: ₹159,283.92 (159.28%)
+Sharpe: 1.655
+CAGR: 0.145
+Max Drawdown: -0.140
+Number of trades: 61
+Win rate: 65.57%
+Avg trade PnL (net): ₹2611.21
+Total trade PnL (net): ₹159283.92
+Avg holding (days): 19.5
+Turnover: 15.13
+Max single-trade profit (net): ₹36,290.06
+Max single-trade loss (net): ₹-1,743.42
+
+Max profit trade details:
+{'entry_date': Timestamp('2022-03-23 00:00:00'), 'exit_date': Timestamp('2022-05-04 00:00:00'), 'entry_price': 24.952470534324643, 'exit_price': 57.571198474884035, 'shares': 1114, 'pnl_gross': 36337.262925783165, 'pnl_net': 36290.06292578317, 'fees_total': 47.2}
+
+Max loss trade details:
+{'entry_date': Timestamp('2022-12-29 00:00:00'), 'exit_date': Timestamp('2023-01-11 00:00:00'), 'entry_price': 61.030499999999996, 'exit_price': 56.33182061004639, 'shares': 361, 'pnl_gross': -1696.223259773251, 'pnl_net': -1743.423259773251, 'fees_total': 47.2}
+
+Assumptions:
+Brokerage per order: ₹20.00, GST: 18.0%, Slippage: 0.050%
